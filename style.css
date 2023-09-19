@@ -164,7 +164,7 @@ div img{
         text-decoration: none;
         color:rgb(255, 255, 255);
         display: flex;
-        font-size: 12px;
+        font-size: 10px;
     }
     .navbar a:hover{
         color:aliceblue;

@@ -117,7 +117,7 @@ div img{
 
     body {
         background: rgb(2,0,36);
-        background-color: rgb(14, 65, 3);
+        background-color: rgb(6, 92, 25);
         margin: 0px;
         padding: 0;
         font-family:'Amaranth';
@@ -130,7 +130,7 @@ div img{
         margin-bottom: 5%;
         background-color: rgb(3, 24, 17);
         font-family:  Didact Gothic;
-        font-size: 7px;
+        font-size: 15px;
     }
     
     .navbar ul{
@@ -178,7 +178,7 @@ div img{
     }
     
     h2{
-        background-color: rgb(5, 53, 39);
+        background-color: rgb(11, 68, 52);
         padding: 5%;
         margin: 3%;
         color: rgb(221, 207, 207);
@@ -196,7 +196,7 @@ div img{
         display: flex;
         font-size: 20px;
         text-align: left;
-        background-color:rgb(5, 53, 39);
+        background-color:rrgb(11, 68, 52);
         border-radius: 5%;
         text-indent: 15px;
     }

@@ -164,7 +164,7 @@ div img{
         text-decoration: none;
         color:rgb(255, 255, 255);
         display: flex;
-        font-size: 10px;
+        font-size: 7px;
     }
     .navbar a:hover{
         color:aliceblue;
@@ -172,7 +172,7 @@ div img{
     
     .navbar .brand{
         font-weight: 800;
-        font-size: 15px;
+        font-size: 12px;
         background-color:rgb(3, 24, 17);
         display: flex;
     }

@@ -224,8 +224,8 @@ button:focus ~ ul{
         text-align: center;
         padding-left: 10%;
         margin:5%;
-        width: 250px;
-        height: 200px;
+        width: 400px;
+        height: 300px;
     }
     div iframe{
         background-color: rgb(3, 24, 17);

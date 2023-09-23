@@ -224,12 +224,14 @@ button:focus ~ ul{
         text-align: center;
         padding-left: 10%;
         margin:5%;
+        width:350px; 
+        height:300px;
     }
     div iframe{
         background-color: rgb(3, 24, 17);
-        padding: 10%;
-        margin:3%;
-        border-radius: 25%;
+        padding: 7%;
+        margin: 5%;
+        border-radius: 5%;
     }
     h4{
         margin:5%;
@@ -237,7 +239,7 @@ button:focus ~ ul{
     }
     div img{
         background-color: rgb(3, 24, 17);
-        padding: 10%;
+        padding: 7%;
         margin:5%;
         border-radius: 25px;
     }

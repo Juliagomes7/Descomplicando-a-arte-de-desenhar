@@ -96,7 +96,7 @@ p{
     border-radius: 25px;
     text-indent: 15px;
 }
-.area1, .area2{
+.area1 {
         visibility: hidden;
 }
 img{
@@ -215,7 +215,7 @@ button:focus ~ ul{
         border-radius: 5%;
         text-indent: 15px;
     }
-    .area1, .area2{
+    .area1 {
         visibility: hidden;
     }
     img{
@@ -238,9 +238,6 @@ button:focus ~ ul{
         padding: 7%;
         margin: 5%;
         border-radius: 5%;
-    }
-    .background-music{
-        display: none;
     }
     h4{
         margin:5%;

@@ -1,4 +1,8 @@
-let contador = localStorage.getItem('visitas') || 0;
+if(localStorage.getItem("visitas") === null) {
+    localStorage.setItem("visitas", 0);
+}
+var contador = parseInt(localStorage.getItem("visitas"));
+document.getElementById("contador").textContent = contador;
+
 contador++;
-localStorage.setItem('visitas', contador);
-console.log(`Número de visitas: ${contador}`);
+localStorage.setItem("visitas", contador);

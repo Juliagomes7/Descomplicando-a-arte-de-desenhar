@@ -1,8 +1,13 @@
-if(localStorage.getItem("visitas") === null) {
-    localStorage.setItem("visitas", 0);
-}
-var contador = parseInt(localStorage.getItem("visitas"));
-document.getElementById("contador").textContent = contador;
+<script>
+        const themeLink = document.getElementById("theme-link");
+        const toggleThemeButton = document.getElementById("toggle-theme");
 
-contador++;
-localStorage.setItem("visitas", contador);
+        function toggleTheme() {
+            if (themeLink.getAttribute("href") === "style.css") {
+                themeLink.setAttribute("href", "temaEscuro.css");
+            } else {
+                themeLink.setAttribute("href", "style.css");
+            }
+        }
+        toggleThemeButton.addEventListener("click", toggleTheme);
+    </script>

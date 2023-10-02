@@ -204,7 +204,7 @@ button:focus ~ ul{
     p{
         padding: 10%;
         margin: 5%;
-        color: rgb(221, 207, 207);
+        color:rgb(255, 255, 255);
         display: flex;
         font-size: 20px;
         text-align: left;

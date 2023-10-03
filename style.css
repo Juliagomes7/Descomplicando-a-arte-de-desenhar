@@ -1,4 +1,3 @@
-
 body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgb(107, 129, 10) 0%, rgb(69, 131, 18) 25%, rgb(12, 94, 46) 88%);
@@ -134,7 +133,7 @@ div img{
     color: rgb(216, 208, 208);
 }
 .voltar_ao_topo{
-    background-color: rgb(7, 37, 27);
+    background-color: rgb(3, 24, 17);
     color: aliceblue;
     border-radius: 25%;
     padding-top: 3px;

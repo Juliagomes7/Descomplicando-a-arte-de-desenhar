@@ -138,11 +138,13 @@ div img{
     border-radius: 25%;
     padding: 7%;
     margin: 5%;
-    text-align: left;
+    text-align: center;
 }
 .voltar_ao_topo button{
     font-size: 15px;
     padding: 7px;
+    margin: 5%;
+    text-align: center;
 }
 button:focus ~ ul{
     height: 100%;
@@ -263,7 +265,7 @@ button:focus ~ ul{
     .voltar_ao_topo{
         background-color: rgb(3, 24, 17);
         color: aliceblue;
-        border-radius: 50%;
+        border-radius: 5%;
         padding: 7%;
         margin: 10%;
         text-align: center;
@@ -271,5 +273,7 @@ button:focus ~ ul{
     .voltar_ao_topo button{
         font-size: 15px;
         padding: 7px;
+        margin: 10%;
+        text-align: center;
     }
 }

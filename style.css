@@ -133,7 +133,11 @@ div img{
     font-size: 15px;
     color: rgb(216, 208, 208);
 }
-
+.voltar_ao_topo{
+    background-color: rgb(7, 37, 27);
+    color: aliceblue;
+    border-radius: 25%;
+}
 button:focus ~ ul{
     height: 100%;
     text-align: left;

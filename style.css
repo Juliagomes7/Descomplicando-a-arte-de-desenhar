@@ -262,9 +262,7 @@ button:focus ~ ul{
         border-radius: 5%;
         font-size: 15px;
         padding: 7px;
-        padding-bottom: 10px;
-        padding-right: 10px;
-        margin: 10%;
+        margin: 5px;
         text-align: center;
     }
 }

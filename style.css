@@ -256,9 +256,10 @@ button:focus ~ ul{
         color: rgb(216, 208, 208);
     }
     .voltar_ao_topo{
-    background-color: rgb(3, 24, 17);
-    color:aliceblue;
-    border-radius: 25%;
-    padding-top: 3px;
-}
+        background-color: rgb(3, 24, 17);
+        color:aliceblue;
+        border-radius: 25%;
+        padding-top: 3px;
+        font-size: 20px;
+    }
 }

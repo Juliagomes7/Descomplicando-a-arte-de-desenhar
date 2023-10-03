@@ -137,6 +137,7 @@ div img{
     background-color: rgb(7, 37, 27);
     color: aliceblue;
     border-radius: 25%;
+    padding-top: 3px;
 }
 button:focus ~ ul{
     height: 100%;

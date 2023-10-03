@@ -151,7 +151,6 @@ button:focus ~ ul{
 @media only screen and (max-width: 758px) {
 
     body {
-        background: rgb(2,0,36);
         background-color: rgb(107, 129, 10);
         margin: 0px;
         padding: 0;
@@ -264,10 +263,10 @@ button:focus ~ ul{
     .voltar_ao_topo{
         background-color: rgb(3, 24, 17);
         color: aliceblue;
-        border-radius: 25x;
+        border-radius: 50%;
         padding: 7%;
-        margin: 5%;
-        text-align: left;
+        margin: 10%;
+        text-align: center;
     }
     .voltar_ao_topo button{
         font-size: 15px;

@@ -261,13 +261,14 @@ button:focus ~ ul{
     }
     .voltar_ao_topo{
         background-color: rgb(3, 24, 17);
-        color:aliceblue;
-        border-radius: 25%;
-        padding-top: 3px;
-        padding: 10px;
+        color: aliceblue;
+        border-radius: 25x;
+        padding: 7%;
+        margin: 5%;
+        text-align: left;
     }
     .voltar_ao_topo button{
-        font-size: 10px;
+        font-size: 15px;
         padding: 7px;
     }
 }
